@@ -1,0 +1,4 @@
+[submodule "arduino-cli"]
+	path = arduino-cli
+	url = https://github.com/arduino/arduino-cli.git
+	branch = master

@@ -9,8 +9,7 @@ Workspace to learn about Arduino Mega 2560 (r3)
 ## Getting Set Up:
 	git clone https://github.com/jameslewellyn/learn_arduino-mega2560.git
 	cd learn_arduino-mega2560/
-	git submodule update --init --recursive
-	git config submodule.arduino-cli.ignore all
+	git clone https://github.com/arduino/arduino-cli.git
 	cd arduino-cli/
 	./install.sh
 	cd ../
